@@ -2,15 +2,15 @@
 1. Open terminal and type in make
 > this will create an executable version of python script.
 
-2. Then type in ./proxyserver "hostname" ####
+2. Then type in ./proxyserver "hostname" ****
 >"hostname" is either "ranger1" or "ranger2" or "ranger3" which ever one you are connected to.
-> #### is the proxyserver's port number that you want to set.
+> **** is the proxyserver's port number that you want to set.
 
 3.Open up the web browser next and setup the proxy settings accordingly.
 IP should be that of "ranger1" ( 161.45.162.70 ) 
 IP should be that of "ranger2" ( 161.45.162.71 ) 
 IP should be that of "ranger3" ( 161.45.162.51 ) 
-and the port number is what you assigned (####).
+and the port number is what you assigned (****).
 
 4. That should be it!! The ProxyServer is good to go ^^
 
